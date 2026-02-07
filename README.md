@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-📍 **Henesys ↔ Orbis**
+📍 **Henesys ↔ Orbis** | 🗓️ **Weekend builder** | 🚀 **ex-fuboTV**
 
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?logo=anthropic&logoColor=white)
+![Coverage](https://img.shields.io/badge/coverage-95%25-orange)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Current Projects
 
