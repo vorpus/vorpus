@@ -15,3 +15,4 @@
 - 🗡️ **[AutoSpire](https://github.com/vorpus/auto-spire)** - AI that plays Slay the Spire 2 via a Harmony mod bridge
 - 🍣 **[Sushi Belt](https://github.com/vorpus/sushi-belt)** - Cozy conveyor-belt automation game built with TypeScript + PixiJS
 - 📖 **[Billy Reader](https://github.com/vorpus/billy-reader)** - Firefox extension that adds pinyin annotations to Chinese text on any webpage
+- 🎙️ **[Scribe](https://github.com/vorpus/scribe)** - Fully local meeting transcription sidecar for macOS — zero data leaves your machine
