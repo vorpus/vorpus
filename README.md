@@ -9,6 +9,7 @@
 ## Current Projects
 
 - 💅 **[performative-ui](https://vorpus.github.io/performativeUI/)** - [#1 on HN](https://news.ycombinator.com/item?id=48445554), AI-native React components that signal how oversubscribed your funding round is
+- 🦝 **[steal-a-gif](https://vorpus.github.io/steal-a-gif/)** - Screen-record a sticker, steal it back as a clean looping GIF, all in your browser
 - 🕹️ **[Sassy](https://play.cncl.co/)** - Real-time multiplayer game lobby, grab your friends, no couch required
 - 🃏 **[Porker](https://porker.cncl.co/)** - Your poker home game's secret weapon: track, deal, and settle up
 - ⏰ **[Universal Timer](https://github.com/vorpus/universal-timer)** - A menu bar time tracker that stays out of your way
