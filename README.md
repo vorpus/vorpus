@@ -8,6 +8,7 @@
 
 ## Current Projects
 
+- 🗺️ **[All Roads Lead Home](https://takeallroads.com/)** - iOS app that lights up every street you've traveled and keeps a timeline of your days
 - 💅 **[performative-ui](https://vorpus.github.io/performativeUI/)** - [#1 on HN](https://news.ycombinator.com/item?id=48445554), AI-native React components that signal how oversubscribed your funding round is
 - 🦝 **[steal-a-gif](https://vorpus.github.io/steal-a-gif/)** - Screen-record a sticker, steal it back as a clean looping GIF, all in your browser
 - 🍽️ **[DishWish](https://dishwish.cncl.co/)** - Coordinate a potluck with one shareable link, no login, live updates so nobody brings the same dish twice
